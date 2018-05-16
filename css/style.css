@@ -885,3 +885,6 @@ select {
 .active {
   color: #fff;
   fill: #fff; }
+
+p + p {
+  padding: 0 10px; }
