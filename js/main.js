@@ -1,4 +1,5 @@
 (function($) {
+	"use strict";
 $(function() {
 
   $('ul.tabs__caption').on('click', 'li:not(.active)', function() {
